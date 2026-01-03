@@ -1,0 +1,10 @@
+# virtual environments
+venv/
+ai_env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# env
+.env
